@@ -2,14 +2,14 @@
 
 # Hi I'm Jessica 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-ross-a48844387/)
+[![Linkedin Badge](https://img.shields.io/badge/-Conner_Ross-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-ross-a48844387/)
 [![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
 [![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/cross22_)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:connerjross@gmail.com)
 
-Welcome to my profile! I'm a second year student at the University of Florida majoring in data science. I love creating visual dashboards with softwares such as Power BI. I currently work at Universal Orlando Resort and am hoping to intern there or somewhere similar in the coming year. Thanks for visiting, [connect] if you're interested (www.linkedin.com/in/conner-ross-a48844387/)!
-student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+Welcome to my profile! I'm a second year student at the University of Florida majoring in data science. I love creating visual dashboards with softwares such as Power BI. I currently work at Universal Orlando Resort and am hoping to intern there or somewhere similar in the coming year. Thanks for visiting, [connect](www.linkedin.com/in/conner-ross-a48844387/) if you're interested!
+
 
 
 ## Join the Community Word Cloud :cloud: :pencil2:
