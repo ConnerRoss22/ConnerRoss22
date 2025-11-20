@@ -1,6 +1,6 @@
 # Hi I'm Conner 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-cross-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-cross-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/conner-ross-a48844387/)
 [![Instagram Badge](https://img.shields.io/badge/-@__cross22_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/cross22_)
 [![Gmail Badge](https://img.shields.io/badge/-connerjross-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:connerjross@gmail.com)
 
